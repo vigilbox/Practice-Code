@@ -1,0 +1,4 @@
+﻿  Insertion Sort.cpp
+C:\Users\chand_000\Documents\GitHub\Practice-Code\Insertion Sort\Insertion Sort\Insertion Sort.cpp(19,16): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\chand_000\Documents\GitHub\Practice-Code\Insertion Sort\Insertion Sort\Insertion Sort.cpp(34,16): warning C4018:  '<': signed/unsigned mismatch
+  Insertion Sort.vcxproj -> C:\Users\chand_000\Documents\GitHub\Practice-Code\Insertion Sort\Debug\Insertion Sort.exe
